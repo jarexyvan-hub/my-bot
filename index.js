@@ -8,5 +8,5 @@ client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}`);
 });
 
-client.login("MTQ5Nzg3ODEyNDkyNTQyMzczNw.GtDHMK.dtZDDArLFqN8P5LL8AKosHnHkryQUP4R4ro3BE");
+client.login(client.login(process.env.MTQ5Nzg3ODEyNDkyNTQyMzczNw.G7RNqz.5n2QQnLhhE-88LBtepszp8wkKx98I5eIcvfXAg);
 
